@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    justify-content: space-around; 
+    font-family: 'Righteous', cursive;
+
+}
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    
+}
+.headshot{
+    width:15%;
+    border-radius: 50%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:25px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Righteous', cursive;
+
+}
+.aboutme{
+    border:1px solid black;   
+}
